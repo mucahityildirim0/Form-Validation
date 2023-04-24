@@ -16,6 +16,10 @@
   background-position: center;
 }
 
+.title {
+  margin-top: 20px;
+}
+
 form {
   background-color: white;
   padding: 0px 60px;
